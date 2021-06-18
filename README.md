@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kushal
-- 👀 I’m interested in --<coding>--
+- 👀 I’m interested in <!--coding-->
 - 🌱 I’m currently learning {{ A-Ng-ular }}
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Sorry not reachable right now :D
